@@ -48,4 +48,5 @@ you can change these on top of `joffre.py`:
 
 ## Notes
 - Dates that have already passed are skipped automatically
-- [check out joffre lakes] (https://www.instagram.com/reels/DcEZKAYhRO5/)
+- [check out joffre lakes](https://www.instagram.com/reels/DcEZKAYhRO5/)
+
